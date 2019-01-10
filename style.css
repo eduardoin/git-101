@@ -1,6 +1,7 @@
 body {
 	margin: 0;
-	font-family: Georgia;
+	font-family: Helvetica;
+	color: #333;
 }
 #logo {
 	height: 100px;
