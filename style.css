@@ -1,11 +1,22 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
-	color: white;
-	background: #333;
+	background: #ddd;
 }
 h1 {
 	font-weight: 700;
+	color: #333;
+}
+p {
+	font-size: 18px;
+	font-weight: 700;
+}
+a {
+	text-decoration: none;
+	color: #aa0000;
+}
+a:hover {
+	color: red;
 }
 #logo {
 	height: 100px;
